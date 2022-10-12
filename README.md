@@ -25,6 +25,6 @@ Veri tabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetil
 
 
 
-Dağıtık Veri Tabanı (Distributed Database)
+# Dağıtık Veri Tabanı (Distributed Database)
 
 Bu veri tabanı bilgileri farklı veri tabanlarında tutar. Her bir veri tabanı da bilgisayar ağlarıyla birbirine bağlıdır. Dağıtık sistemlerin ortaya çıkış sebebi kaynakları paylaşma ihtiyacı. Aynı anda birden fazla veri tabanı üzerinde işlem yapmayı sağlıyor. Farklı bilgisayarlardaki donanım araçlarını kullanarak verilerimizi daha performanslı tutmayı sağlar. Avantajları ise Esneklik, Şeffaflık, Parçalama, Erişilebilirlik gibi özellikleri barındırır.
