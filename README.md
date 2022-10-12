@@ -13,7 +13,7 @@ Veri tabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetil
 
 ## Veri Tabanı (Database) Türleri Nelerdir?
 
-* [Dağıtık Veri Tabanı (Distributed Database)](require "Dağıtık Veri Tabanı (Distributed Database)")
+* [Dağıtık Veri Tabanı (Distributed Database)](#Dağıtık Veri Tabanı (Distributed Database))
 * İlişkisel Veri Tabanı (Relational Database)
 * Merkezi Veri Tabanı (Centralized Database)
 * Bulut Veri Tabanı (Cloud Database)
