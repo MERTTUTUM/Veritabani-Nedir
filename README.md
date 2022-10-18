@@ -32,3 +32,4 @@ Bu veri tabanı bilgileri farklı veri tabanlarında tutar. Her bir veri tabanı
 # ilişkisel Veri Tabanı
 
 Günümüzde en çok tercih edilen veri tabanı türüdür. Verilerin birbiriyle ilişkili noktalarını baz alarak işlem yapmaya olanak sağlar. E.F. Codd tarafından 1970 yılında geliştirilmiş 1980 yılından itibaren kullanılmaya başlanmıştır. Bu tür veri tabanlarında bire-bir , bire-çok , çoka-çok ilişkilendirme yapılabilmektedir.
+Yapılandırılmış bilgilere en verimli ve hızlı bir şekilde erişim imkanı sunar.
