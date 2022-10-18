@@ -14,7 +14,7 @@ Veri tabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetil
 ## Veri Tabanı (Database) Türleri Nelerdir?
 
 -  [Dağıtık Veri Tabanı](#dağıtık-veri-tabanı)
-* İlişkisel Veri Tabanı (Relational Database)
+-  [İlişkisel Veri Tabanı](#ilişkisel-veri-tabanı)
 * Merkezi Veri Tabanı (Centralized Database)
 * Bulut Veri Tabanı (Cloud Database)
 * Nesneye Yönelik Veri Tabanı (Object Oriented Database)
@@ -28,3 +28,7 @@ Veri tabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetil
 # Dağıtık Veri Tabanı
 
 Bu veri tabanı bilgileri farklı veri tabanlarında tutar. Her bir veri tabanı da bilgisayar ağlarıyla birbirine bağlıdır. Dağıtık sistemlerin ortaya çıkış sebebi kaynakları paylaşma ihtiyacı. Aynı anda birden fazla veri tabanı üzerinde işlem yapmayı sağlıyor. Farklı bilgisayarlardaki donanım araçlarını kullanarak verilerimizi daha performanslı tutmayı sağlar. Avantajları ise Esneklik, Şeffaflık, Parçalama, Erişilebilirlik gibi özellikleri barındırır.
+
+# İlişkisel Veri Tabanı
+
+Günümüzde en çok tercih edilen veri tabanı türüdür. Verilerin birbiriyle ilişkili noktalarını baz alarak işlem yapmaya olanak sağlar. E.F. Codd tarafından 1970 yılında geliştirilmiş 1980 yılından itibaren kullanılmaya başlanmıştır. Bu tür veri tabanlarında bire-bir , bire-çok , çoka-çok ilişkilendirme yapılabilmektedir.
