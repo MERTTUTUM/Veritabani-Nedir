@@ -15,13 +15,13 @@ Veri tabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetil
 
 -  [Dağıtık Veri Tabanı](#dağıtık-veri-tabanı)
 -  [ilişkisel Veri Tabanı](#ilişkisel-veri-tabanı)
-* Merkezi Veri Tabanı (Centralized Database)
-* Bulut Veri Tabanı (Cloud Database)
-* Nesneye Yönelik Veri Tabanı (Object Oriented Database)
-* Açık Kaynak Veri Tabanı (Open Source Database)
-* NoSQL Veri Tabanı (NoSQL Database)
-* Grafik Veri Tabanı (Graph Database)
-* Kişisel Veri Tabanı (Personal Database)
+-  [Merkezi Veri Tabanı](#merkezi-veri-tabanı)
+-  [Bulut Veri Tabanı](#bulut-veri-tabanı)
+-  [Nesneye Yönelik Veri Tabanı](#nesneye-yönelik-veri-tabanı)
+-  [Açık Kaynak Veri Tabanı](#açık-kaynak-veri-tabanı)
+-  [NoSQL Veri Tabanı](#nosql-veri-tabanı)
+-  [Grafik Veri Tabanı](#grafik-veri-tabanı)
+-  [Kişisel Veri Tabanı](#kişisel-veri-tabanı)
 
 
 
@@ -33,3 +33,6 @@ Bu veri tabanı bilgileri farklı veri tabanlarında tutar. Her bir veri tabanı
 
 Günümüzde en çok tercih edilen veri tabanı türüdür. Verilerin birbiriyle ilişkili noktalarını baz alarak işlem yapmaya olanak sağlar. E.F. Codd tarafından 1970 yılında geliştirilmiş 1980 yılından itibaren kullanılmaya başlanmıştır. Bu tür veri tabanlarında bire-bir , bire-çok , çoka-çok ilişkilendirme yapılabilmektedir.
 Yapılandırılmış bilgilere en verimli ve hızlı bir şekilde erişim imkanı sunar.
+
+# Merkezi Veri Tabanı
+
