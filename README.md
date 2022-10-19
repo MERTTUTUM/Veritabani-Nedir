@@ -40,13 +40,17 @@ Dağıtık veri tabanı'nın aksine toplanan tüm verileri tek bir veri tabanın
 
 # Bulut Veri Tabanı
 
-Bulut platformu üzerinde kurulan ve erişilen veri tabanıdır. İş operasyonlarını desteklemek ve verinin kullanılabilirliğini artırmak amacıyla bir kurum tarafından ücretli abonelik sistemleriyle özel, genel veya hibrit bir bulut ortamında oluşturulan ,erişilen veri tabanıdır. Avantajları ise esneklik, erişilebilirlik, performans.
+DBaaS olarak tanımlanır. Bulut platformu üzerinde kurulan ve erişilen veri tabanıdır. İş operasyonlarını desteklemek ve verinin kullanılabilirliğini artırmak amacıyla bir kurum tarafından ücretli abonelik sistemleriyle özel, genel veya hibrit bir bulut ortamında oluşturulan ,erişilen veri tabanıdır. Avantajları ise esneklik, erişilebilirlik, performans.
 
 # Nesneye Yönelik Veri Tabanı
 
 Bu veri tabanında veriler nesne tabanlı programlamada olduğu gibi nesneler biçiminde ifade edilir. Nesne yönelimli programlama dilleri kullanılarak oluşturulan verilerin depolanması için uygundur. Fakat bu veriler genellikle ilişkisel veri tabanlarında depolanıyor. Ses, video, yazı vb. veriler düzenlenebilir.
 
 # Açık Kaynak Veri Tabanı
+
+Adından da anlaşılacağı gibi erişime açık ve açık kaynak kodlu üzerinde çeşitli işlemler yapmamıza olanak sağlayan ücretsiz veri tabanı türüdür. Farklı kaynaklardan edinilen veriler çeşitli kuruluşlarca yayınlanır. Genel olarak makine öğrenmesi ve veri ön işleme gibi alanlar için uygundur. 
+
+# NoSQL Veri Tabanı
 
 
 
