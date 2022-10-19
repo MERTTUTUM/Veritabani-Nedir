@@ -36,3 +36,4 @@ Yapılandırılmış bilgilere en verimli ve hızlı bir şekilde erişim imkan�
 
 # Merkezi Veri Tabanı
 
+Dağıtık veri tabanı'nın aksine toplanan tüm verileri tek bir veri tabanında saklar. Avantajları ise verilerimizin tek bir otorite tarafından kullanıcılarına verilen erişim yetkileri ile kontrol edilebilmesidir. 
