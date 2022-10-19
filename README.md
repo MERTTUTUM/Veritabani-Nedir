@@ -13,15 +13,15 @@ Veritabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetilm
 
 ## Veritabanı (Database) Türleri Nelerdir?
 
--  [Dağıtık Veritabanı](#dağıtık-veri-tabanı)
--  [ilişkisel Veritabanı](#ilişkisel-veri-tabanı)
--  [Merkezi Veritabanı](#merkezi-veri-tabanı)
--  [Bulut Veritabanı](#bulut-veri-tabanı)
--  [Nesneye Yönelik Veritabanı](#nesneye-yönelik-veri-tabanı)
--  [Açık Kaynak Veritabanı](#açık-kaynak-veri-tabanı)
--  [NoSQL Veritabanı](#nosql-veri-tabanı)
--  [Grafik Veritabanı](#grafik-veri-tabanı)
--  [Kişisel Veritabanı](#kişisel-veri-tabanı)
+-  [Dağıtık Veritabanı](#dağıtık-veritabanı)
+-  [ilişkisel Veritabanı](#ilişkisel-veritabanı)
+-  [Merkezi Veritabanı](#merkezi-veritabanı)
+-  [Bulut Veritabanı](#bulut-veritabanı)
+-  [Nesneye Yönelik Veritabanı](#nesneye-yönelik-veritabanı)
+-  [Açık Kaynak Veritabanı](#açık-kaynak-veritabanı)
+-  [NoSQL Veritabanı](#nosql-veritabanı)
+-  [Grafik Veritabanı](#grafik-veritabanı)
+-  [Kişisel Veritabanı](#kişisel-veritabanı)
 
 
 
