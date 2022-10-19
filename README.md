@@ -5,11 +5,11 @@
 
 ## VERİTABANI NEDİR? 
 
-Veri tabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetilmesini ve güncellenmesini sağlar. Ulaştığımız her veri veri tabanlarında tutulur. Günümüzde her bilginin sanal ortama aktarılması verilerin saklanması gereksinimini ortaya koymuştur. Veri tabanı, verilerimizi bir dizi tabloda ve içerisinde bulunan satır ,sütun ekseninde modeller . Bu şekilde veriler daha erişilebilir, yönetilebilir, değiştirilebilir ve güncellenebilir hale gelmiştir. 
+Veritabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetilmesini ve güncellenmesini sağlar. Ulaştığımız her veri veritabanlarında tutulur. Günümüzde her bilginin sanal ortama aktarılması verilerin saklanması gereksinimini ortaya koymuştur. Veritabanı, verilerimizi bir dizi tabloda ve içerisinde bulunan satır ,sütun ekseninde modeller . Bu şekilde veriler daha erişilebilir, yönetilebilir, değiştirilebilir ve güncellenebilir hale gelmiştir. 
 
 ## Veritabanı'nın Evrimi
 
-1960'lı yılların başlarında ortaya çıkıyor. Hiyerarşik veri tabanları ( ağaç benzeri bir model ) ve ağ veri tabanı ( ilişkili ) verileri saklamak ve güncellemek için kullanılan orijinal sistemlerdi. 1980'li yıllarda ilişkisel veri tabanları popüler oldu ve 1990'lı yıllarda nesne odaklı veri tabanları öne çıktı. Gelişen teknoloji ve hızla artış gösteren verilerin işlenmesine duyulan ihtiyaçtan dolayı NoSQL veri tabanları geliştirildi. Günümüzde ise bulut veri tabanları ve kendi kendini yöneten veri tabanları trendler arasında.
+1960'lı yılların başlarında ortaya çıkıyor. Hiyerarşik veri tabanları ( ağaç benzeri bir model ) ve ağ veri tabanı ( ilişkili ) verileri saklamak ve güncellemek için kullanılan orijinal sistemlerdi. 1980'li yıllarda ilişkisel veritabanları popüler oldu ve 1990'lı yıllarda nesne odaklı veri tabanları öne çıktı. Gelişen teknoloji ve hızla artış gösteren verilerin işlenmesine duyulan ihtiyaçtan dolayı NoSQL veritabanları geliştirildi. Günümüzde ise bulut veritabanları ve kendi kendini yöneten veri tabanları trendler arasında.
 
 ## Veritabanı (Database) Türleri Nelerdir?
 
@@ -56,7 +56,7 @@ Adından da anlaşılacağı gibi erişime açık ve açık kaynak kodlu üzerin
 
 # Grafik Veritabanı
 
-Bu veri tabanı türünde verilerin depolanması ve sorgulanması grafik teorisi üzerinden yapılır. 
+Bu veritabanı türünde verilerin depolanması ve sorgulanması grafik teorisi üzerinden yapılır. 
 
 
 
