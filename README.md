@@ -3,11 +3,11 @@
 İşlenmemiş gerçek enformasyon parçacığı. Bir Konu ile ilgili gerçeklerdir. Örneğin Resim, Dosya, Ses, Harfler, Semboller vb. Ayrıca veriler tek başına bir anlam taşımazken bir araya getirilip işlenerek anlamlı bilgiler oluşturur. Kişinin kayıt etmeye değer bulduğu her şey veridir.
 
 
-## VERİ TABANI NEDİR? 
+## VERİTABANI NEDİR? 
 
 Veri tabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetilmesini ve güncellenmesini sağlar. Ulaştığımız her veri veri tabanlarında tutulur. Günümüzde her bilginin sanal ortama aktarılması verilerin saklanması gereksinimini ortaya koymuştur. Veri tabanı, verilerimizi bir dizi tabloda ve içerisinde bulunan satır ,sütun ekseninde modeller . Bu şekilde veriler daha erişilebilir, yönetilebilir, değiştirilebilir ve güncellenebilir hale gelmiştir. 
 
-## Veri Tabanının Evrimi
+## Veritabanı'nın Evrimi
 
 1960'lı yılların başlarında ortaya çıkıyor. Hiyerarşik veri tabanları ( ağaç benzeri bir model ) ve ağ veri tabanı ( ilişkili ) verileri saklamak ve güncellemek için kullanılan orijinal sistemlerdi. 1980'li yıllarda ilişkisel veri tabanları popüler oldu ve 1990'lı yıllarda nesne odaklı veri tabanları öne çıktı. Gelişen teknoloji ve hızla artış gösteren verilerin işlenmesine duyulan ihtiyaçtan dolayı NoSQL veri tabanları geliştirildi. Günümüzde ise bulut veri tabanları ve kendi kendini yöneten veri tabanları trendler arasında.
 
@@ -27,32 +27,32 @@ Veri tabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetil
 
 # Dağıtık Veritabanı
 
-Bu veri tabanı bilgileri farklı veri tabanlarında tutar. Her bir veri tabanı da bilgisayar ağlarıyla birbirine bağlıdır. Dağıtık sistemlerin ortaya çıkış sebebi kaynakları paylaşma ihtiyacı. Aynı anda birden fazla veri tabanı üzerinde işlem yapmayı sağlıyor. Farklı bilgisayarlardaki donanım araçlarını kullanarak verilerimizi daha performanslı tutmayı sağlar. Avantajları ise Esneklik, Şeffaflık, Parçalama, Erişilebilirlik gibi özellikleri barındırır.
+Bu veritabanı bilgileri farklı veri tabanlarında tutar. Her bir veritabanı da bilgisayar ağlarıyla birbirine bağlıdır. Dağıtık sistemlerin ortaya çıkış sebebi kaynakları paylaşma ihtiyacı. Aynı anda birden fazla veritabanı üzerinde işlem yapmayı sağlıyor. Farklı bilgisayarlardaki donanım araçlarını kullanarak verilerimizi daha performanslı tutmayı sağlar. Avantajları ise Esneklik, Şeffaflık, Parçalama, Erişilebilirlik gibi özellikleri barındırır.
 
-# ilişkisel Veri Tabanı
+# ilişkisel Veritabanı
 
-Günümüzde en çok tercih edilen veri tabanı türüdür. Verilerin birbiriyle ilişkili noktalarını baz alarak işlem yapmaya olanak sağlar. E.F. Codd tarafından 1970 yılında geliştirilmiş 1980 yılından itibaren kullanılmaya başlanmıştır. Bu tür veri tabanlarında bire-bir , bire-çok , çoka-çok ilişkilendirme yapılabilmektedir.
+Günümüzde en çok tercih edilen veritabanı türüdür. Verilerin birbiriyle ilişkili noktalarını baz alarak işlem yapmaya olanak sağlar. E.F. Codd tarafından 1970 yılında geliştirilmiş 1980 yılından itibaren kullanılmaya başlanmıştır. Bu tür veritabanlarında bire-bir , bire-çok , çoka-çok ilişkilendirme yapılabilmektedir.
 Yapılandırılmış bilgilere en verimli ve hızlı bir şekilde erişim imkanı sunar.
 
 # Merkezi Veritabanı
 
-Dağıtık veri tabanı'nın aksine toplanan tüm verileri tek bir veri tabanında saklar. Avantajları ise verilerimizin tek bir otorite tarafından kullanıcılarına verilen erişim yetkileri ile kontrol edilebilmesidir. Dağıtık veri tabanları'nın getirdiği karmaşıklığı ortadan kaldırır.
+Dağıtık veritabanı'nın aksine toplanan tüm verileri tek bir veri tabanında saklar. Avantajları ise verilerimizin tek bir otorite tarafından kullanıcılarına verilen erişim yetkileri ile kontrol edilebilmesidir. Dağıtık veritabanları'nın getirdiği karmaşıklığı ortadan kaldırır.
 
 # Bulut Veritabanı
 
-DBaaS olarak tanımlanır. Bulut platformu üzerinde kurulan ve erişilen veri tabanıdır. İş operasyonlarını desteklemek ve verinin kullanılabilirliğini artırmak amacıyla bir kurum tarafından ücretli abonelik sistemleriyle özel, genel veya hibrit bir bulut ortamında oluşturulan ,erişilen veri tabanıdır. Avantajları ise esneklik, erişilebilirlik, performans.
+DBaaS olarak tanımlanır. Bulut platformu üzerinde kurulan ve erişilen veritabanıdır. İş operasyonlarını desteklemek ve verinin kullanılabilirliğini artırmak amacıyla bir kurum tarafından ücretli abonelik sistemleriyle özel, genel veya hibrit bir bulut ortamında oluşturulan ,erişilen veritabanıdır. Avantajları ise esneklik, erişilebilirlik, performans.
 
 # Nesneye Yönelik Veritabanı
 
-Bu veri tabanında veriler nesne tabanlı programlamada olduğu gibi nesneler biçiminde ifade edilir. Nesne yönelimli programlama dilleri kullanılarak oluşturulan verilerin depolanması için uygundur. Fakat bu veriler genellikle ilişkisel veri tabanlarında depolanıyor. Ses, video, yazı vb. veriler düzenlenebilir.
+Bu veritabanında veriler nesne tabanlı programlamada olduğu gibi nesneler biçiminde ifade edilir. Nesne yönelimli programlama dilleri kullanılarak oluşturulan verilerin depolanması için uygundur. Fakat bu veriler genellikle ilişkisel veritabanlarında depolanıyor. Ses, video, yazı vb. veriler düzenlenebilir.
 
 # Açık Kaynak Veritabanı
 
-Adından da anlaşılacağı gibi erişime açık ve açık kaynak kodlu üzerinde çeşitli işlemler yapmamıza olanak sağlayan ücretsiz veri tabanı türüdür. Farklı kaynaklardan edinilen veriler çeşitli kuruluşlarca yayınlanır. Genel olarak makine öğrenmesi ve veri ön işleme gibi alanlar için uygundur. 
+Adından da anlaşılacağı gibi erişime açık ve açık kaynak kodlu üzerinde çeşitli işlemler yapmamıza olanak sağlayan ücretsiz veritabanı türüdür. Farklı kaynaklardan edinilen veriler çeşitli kuruluşlarca yayınlanır. Genel olarak makine öğrenmesi ve veri ön işleme gibi alanlar için uygundur. 
 
 # NoSQL Veritabanı
 
-İlişkilendirilmiş veri tabanları çalıştığı zaman çok fazla transaction(işlem) gerçekleşir bu da sistemimize ağır yük bindiriyor. Bu sorunu ortadan kaldırmak için NoSQL geliştiriliyor. Yarı yapılandırılmış ve yapılandırılmamış verileri işlemek için kullanılır.Genel olarak mobil uygulamalar, IOT, içerik yönetimi, gerçek zamanlı büyük veri vb. alanlarda kullanılır.
+İlişkilendirilmiş veritabanları çalıştığı zaman çok fazla transaction(işlem) gerçekleşir bu da sistemimize ağır yük bindiriyor. Bu sorunu ortadan kaldırmak için NoSQL geliştiriliyor. Yarı yapılandırılmış ve yapılandırılmamış verileri işlemek için kullanılır.Genel olarak mobil uygulamalar, IOT, içerik yönetimi, gerçek zamanlı büyük veri vb. alanlarda kullanılır.
 
 # Grafik Veritabanı
 
