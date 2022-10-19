@@ -11,21 +11,21 @@ Veri tabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetil
 
 1960'lı yılların başlarında ortaya çıkıyor. Hiyerarşik veri tabanları ( ağaç benzeri bir model ) ve ağ veri tabanı ( ilişkili ) verileri saklamak ve güncellemek için kullanılan orijinal sistemlerdi. 1980'li yıllarda ilişkisel veri tabanları popüler oldu ve 1990'lı yıllarda nesne odaklı veri tabanları öne çıktı. Gelişen teknoloji ve hızla artış gösteren verilerin işlenmesine duyulan ihtiyaçtan dolayı NoSQL veri tabanları geliştirildi. Günümüzde ise bulut veri tabanları ve kendi kendini yöneten veri tabanları trendler arasında.
 
-## Veri Tabanı (Database) Türleri Nelerdir?
+## Veritabanı (Database) Türleri Nelerdir?
 
--  [Dağıtık Veri Tabanı](#dağıtık-veri-tabanı)
--  [ilişkisel Veri Tabanı](#ilişkisel-veri-tabanı)
--  [Merkezi Veri Tabanı](#merkezi-veri-tabanı)
--  [Bulut Veri Tabanı](#bulut-veri-tabanı)
--  [Nesneye Yönelik Veri Tabanı](#nesneye-yönelik-veri-tabanı)
--  [Açık Kaynak Veri Tabanı](#açık-kaynak-veri-tabanı)
--  [NoSQL Veri Tabanı](#nosql-veri-tabanı)
--  [Grafik Veri Tabanı](#grafik-veri-tabanı)
--  [Kişisel Veri Tabanı](#kişisel-veri-tabanı)
+-  [Dağıtık Veritabanı](#dağıtık-veri-tabanı)
+-  [ilişkisel Veritabanı](#ilişkisel-veri-tabanı)
+-  [Merkezi Veritabanı](#merkezi-veri-tabanı)
+-  [Bulut Veritabanı](#bulut-veri-tabanı)
+-  [Nesneye Yönelik Veritabanı](#nesneye-yönelik-veri-tabanı)
+-  [Açık Kaynak Veritabanı](#açık-kaynak-veri-tabanı)
+-  [NoSQL Veritabanı](#nosql-veri-tabanı)
+-  [Grafik Veritabanı](#grafik-veri-tabanı)
+-  [Kişisel Veritabanı](#kişisel-veri-tabanı)
 
 
 
-# Dağıtık Veri Tabanı
+# Dağıtık Veritabanı
 
 Bu veri tabanı bilgileri farklı veri tabanlarında tutar. Her bir veri tabanı da bilgisayar ağlarıyla birbirine bağlıdır. Dağıtık sistemlerin ortaya çıkış sebebi kaynakları paylaşma ihtiyacı. Aynı anda birden fazla veri tabanı üzerinde işlem yapmayı sağlıyor. Farklı bilgisayarlardaki donanım araçlarını kullanarak verilerimizi daha performanslı tutmayı sağlar. Avantajları ise Esneklik, Şeffaflık, Parçalama, Erişilebilirlik gibi özellikleri barındırır.
 
@@ -34,33 +34,33 @@ Bu veri tabanı bilgileri farklı veri tabanlarında tutar. Her bir veri tabanı
 Günümüzde en çok tercih edilen veri tabanı türüdür. Verilerin birbiriyle ilişkili noktalarını baz alarak işlem yapmaya olanak sağlar. E.F. Codd tarafından 1970 yılında geliştirilmiş 1980 yılından itibaren kullanılmaya başlanmıştır. Bu tür veri tabanlarında bire-bir , bire-çok , çoka-çok ilişkilendirme yapılabilmektedir.
 Yapılandırılmış bilgilere en verimli ve hızlı bir şekilde erişim imkanı sunar.
 
-# Merkezi Veri Tabanı
+# Merkezi Veritabanı
 
 Dağıtık veri tabanı'nın aksine toplanan tüm verileri tek bir veri tabanında saklar. Avantajları ise verilerimizin tek bir otorite tarafından kullanıcılarına verilen erişim yetkileri ile kontrol edilebilmesidir. Dağıtık veri tabanları'nın getirdiği karmaşıklığı ortadan kaldırır.
 
-# Bulut Veri Tabanı
+# Bulut Veritabanı
 
 DBaaS olarak tanımlanır. Bulut platformu üzerinde kurulan ve erişilen veri tabanıdır. İş operasyonlarını desteklemek ve verinin kullanılabilirliğini artırmak amacıyla bir kurum tarafından ücretli abonelik sistemleriyle özel, genel veya hibrit bir bulut ortamında oluşturulan ,erişilen veri tabanıdır. Avantajları ise esneklik, erişilebilirlik, performans.
 
-# Nesneye Yönelik Veri Tabanı
+# Nesneye Yönelik Veritabanı
 
 Bu veri tabanında veriler nesne tabanlı programlamada olduğu gibi nesneler biçiminde ifade edilir. Nesne yönelimli programlama dilleri kullanılarak oluşturulan verilerin depolanması için uygundur. Fakat bu veriler genellikle ilişkisel veri tabanlarında depolanıyor. Ses, video, yazı vb. veriler düzenlenebilir.
 
-# Açık Kaynak Veri Tabanı
+# Açık Kaynak Veritabanı
 
 Adından da anlaşılacağı gibi erişime açık ve açık kaynak kodlu üzerinde çeşitli işlemler yapmamıza olanak sağlayan ücretsiz veri tabanı türüdür. Farklı kaynaklardan edinilen veriler çeşitli kuruluşlarca yayınlanır. Genel olarak makine öğrenmesi ve veri ön işleme gibi alanlar için uygundur. 
 
-# NoSQL Veri Tabanı
+# NoSQL Veritabanı
 
 İlişkilendirilmiş veri tabanları çalıştığı zaman çok fazla transaction(işlem) gerçekleşir bu da sistemimize ağır yük bindiriyor. Bu sorunu ortadan kaldırmak için NoSQL geliştiriliyor. Yarı yapılandırılmış ve yapılandırılmamış verileri işlemek için kullanılır.Genel olarak mobil uygulamalar, IOT, içerik yönetimi, gerçek zamanlı büyük veri vb. alanlarda kullanılır.
 
-# Grafik Veri Tabanı
+# Grafik Veritabanı
 
 Bu veri tabanı türünde verilerin depolanması ve sorgulanması grafik teorisi üzerinden yapılır. 
 
 
 
-# Kişisel Veri Tabanı
+# Kişisel Veritabanı
 
 
 
