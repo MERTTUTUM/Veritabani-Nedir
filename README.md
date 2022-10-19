@@ -52,8 +52,15 @@ Adından da anlaşılacağı gibi erişime açık ve açık kaynak kodlu üzerin
 
 # NoSQL Veri Tabanı
 
+İlişkilendirilmiş veri tabanları çalıştığı zaman çok fazla transaction(işlem) gerçekleşir bu da sistemimize ağır yük bindiriyor. Bu sorunu ortadan kaldırmak için NoSQL geliştiriliyor. Yarı yapılandırılmış ve yapılandırılmamış verileri işlemek için kullanılır.Genel olarak mobil uygulamalar, IOT, içerik yönetimi, gerçek zamanlı büyük veri vb. alanlarda kullanılır.
+
+# Grafik Veri Tabanı
+
+Bu veri tabanı türünde verilerin depolanması ve sorgulanması grafik teorisi üzerinden yapılır. 
 
 
+
+# Kişisel Veri Tabanı
 
 
 
