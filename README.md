@@ -21,7 +21,7 @@ Veritabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetilm
 -  [Açık Kaynak Veritabanı](#açık-kaynak-veritabanı)
 -  [NoSQL Veritabanı](#nosql-veritabanı)
 -  [Grafik Veritabanı](#grafik-veritabanı)
--  [Kişisel Veritabanı](#kişisel-veritabanı)
+
 
 
 
@@ -56,11 +56,10 @@ Adından da anlaşılacağı gibi erişime açık ve açık kaynak kodlu üzerin
 
 # Grafik Veritabanı
 
-Bu veritabanı türünde verilerin depolanması ve sorgulanması grafik teorisi üzerinden yapılır. 
+Bu veritabanı türünde verilerin depolanması ve sorgulanması grafik teorisi üzerinden yapılır. İki öğe den oluşur ; "Node" varlıkları temsil eder.(müşteri,çalışan) ve "Edge" ilişkiyi temsil eder. Genel olarak sosyal ağ oluşturmada, ürün önerileri, ağ analizi gibi alanlarda kullanabiliriz.
 
 
 
-# Kişisel Veritabanı
 
 
 
