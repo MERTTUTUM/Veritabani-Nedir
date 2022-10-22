@@ -109,7 +109,7 @@ ASP, PHP gibi web programlama dilleri ile kullanılabilir. En çok bilinen açı
 
 # SQLite
 
-
+D.Richard Hipp tarafından 2000 yılında C/C++ dilleri ile Amerikan Donanması için geliştiriliyor daha sonra açık kaynak kodlu olarak herkesin kullanımına sunuluyor. Herhangi bir program(sunucu gereksinimi olmadan) yüklemeden web tabanlı olarak çalışabilir. Linux, Windows ve MacOS işletim sistemleri ile uyumludur.   
 
 
 # MariaDB
