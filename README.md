@@ -4,6 +4,12 @@
 
 Veritabanı verilerin muntazam ve organize bir şekilde tutulmasını, yönetilmesini ve güncellenmesini sağlar. Ulaştığımız her veri veritabanlarında tutulur. Günümüzde her bilginin sanal ortama aktarılması verilerin saklanması gereksinimini ortaya koymuştur. Veritabanı, verilerimizi bir dizi tabloda ve içerisinde bulunan satır ,sütun ekseninde modeller . Bu şekilde veriler daha erişilebilir, yönetilebilir, değiştirilebilir ve güncellenebilir hale gelmiştir. 
 
+
+## Veri Ambarı Nedir?
+
+Veritabanları en güncel verileri tutar. (işletmenin günlük verileri) veri ambarı ise veri ambaarı uzmanları tarafından raporlama ve analiz yapabilmek için şirketin geçmiş verilerini sakladığı yerdir.
+
+
 ## Veritabanı'nın Evrimi
 
 1960'lı yılların başlarında ortaya çıkıyor. Hiyerarşik veri tabanları ( ağaç benzeri bir model ) ve ağ veri tabanı ( ilişkili ) verileri saklamak ve güncellemek için kullanılan orijinal sistemlerdi. 1980'li yıllarda ilişkisel veritabanları popüler oldu ve 1990'lı yıllarda nesne odaklı veri tabanları öne çıktı. Gelişen teknoloji ve hızla artış gösteren verilerin işlenmesine duyulan ihtiyaçtan dolayı NoSQL veritabanları geliştirildi. Günümüzde ise bulut veritabanları ve kendi kendini yöneten veri tabanları trendler arasında.
@@ -114,7 +120,7 @@ D.Richard Hipp tarafından 2000 yılında C/C++ dilleri ile Amerikan Donanması 
 
 # MariaDB
 
-İlişkisel veritabanı sistemi olan MySQL kaynak kodundan türemiş C/C++ dilleri ile geliştirilmiş ve kullanımı ücretsiz açık kaynak kodlu olan bir veritabanı yönetim sistemidir. AlibabaCloud, Wikipedia, Microsoft, Google gibi şirketler tarafından desteklenmektedir. MariaDB kâr amacı gütmediği için bugün olduğu gibi gelecektede ücretsiz olacaktır.
+İlişkisel veritabanı sistemi olan MySQL kaynak kodundan türemiş C/C++ dillerini desteklemekte ve kullanımı ücretsiz açık kaynak kodlu olan bir veritabanı yönetim sistemidir. AlibabaCloud, Wikipedia, Microsoft, Google gibi şirketler tarafından desteklenmektedir. MariaDB kâr amacı gütmediği için bugün olduğu gibi gelecektede ücretsiz olacaktır.
 
 
 # MongoDB
@@ -129,14 +135,12 @@ Oracle şirketi tarfından C/C++ dilleri ile geliştirilmiş ilişkisel veritaba
 
 # PostgreSQL
 
-Açık kaynak kodlu hem ilişkisel hem de ilişkisel olmayan (JSON) sorgulamayı destekler.
-
+Açık kaynak kodlu ilişkisel veritabanıdır. İlişkisel olmayan (JSON) sorgulamayı destekler. Büyük nesnelerin depolanmasını destekler. Geniş bir topluluğa sahip olduğundan dolayı güvenli, günlük kaydı sayesinde hatayı dayanıklıdır. Java , C/C++, Ruby gibi dilleri desteklemekte.
+ 
 
 # Microsoft SQL Server
 
-
-
-
+Versiyon 7.0'dan önce Sysbase SQL Server tarafından Microsoft'a satıldı . Aynı anda birden fazla kullanıcı tarafından verilere erişilmesini sağlayan kurumsal alanda kullanılan yaygın bir veritabanıdır. Windows ve linux işletim sistemleri ile uyumludur. Veri koruması, sınıflandırması konusunda oldukça yeteneklidir.Sql öğrenenler için ücretsiz olmakla beraber şirketler için kullanılan ücretli sürümler de bulunmaktadır.
 
 
 
