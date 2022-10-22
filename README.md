@@ -1,6 +1,3 @@
-# VERİ NEDİR?
-
-İşlenmemiş gerçek enformasyon parçacığı. Bir Konu ile ilgili gerçeklerdir. Örneğin Resim, Dosya, Ses, Harfler, Semboller vb. Ayrıca veriler tek başına bir anlam taşımazken bir araya getirilip işlenerek anlamlı bilgiler oluşturur. Kişinin kayıt etmeye değer bulduğu her şey veridir.
 
 
 ## VERİTABANI NEDİR? 
@@ -59,6 +56,8 @@ Adından da anlaşılacağı gibi erişime açık ve açık kaynak kodlu üzerin
 Bu veritabanı türünde verilerin depolanması ve sorgulanması grafik teorisi üzerinden yapılır. İki öğe den oluşur ; "Node" varlıkları temsil eder.(müşteri,çalışan) ve "Edge" ilişkiyi temsil eder. Genel olarak sosyal ağ oluşturmada, ürün önerileri, ağ analizi gibi alanlarda kullanabiliriz.
 
 
+
+
 ## Veritabanı Bileşenleri Nelerdir?
 
 - [Veri](#veri)
@@ -66,8 +65,15 @@ Bu veritabanı türünde verilerin depolanması ve sorgulanması grafik teorisi 
 - [Donanım](#donanım)
 - [Veritabanı Sorgulama Dili](#veritabanı-sorgulama-dili)
 
+# Veri
+
+İşlenmemiş gerçek enformasyon parçacığı. Bir Konu ile ilgili gerçeklerdir. Örneğin Resim, Dosya, Ses, Harfler, Semboller vb. Ayrıca veriler tek başına bir anlam taşımazken bir araya getirilip işlenerek anlamlı bilgiler oluşturur. Kişinin kayıt etmeye değer bulduğu her şey veridir.
 
 # Yazılım
+
+# Donanım
+
+# Veritabanı Sorgulama Dili
 
 
 
