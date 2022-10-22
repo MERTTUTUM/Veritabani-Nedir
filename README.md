@@ -114,11 +114,21 @@ D.Richard Hipp tarafından 2000 yılında C/C++ dilleri ile Amerikan Donanması 
 
 # MariaDB
 
-İlişkisel veritabanı sistemi olan MySQL kaynak kodundan türemiş C/C++ dilleri ile geliştirilmiş ve kullanımı ücretsiz olan bir veritabanı yönetim sistemidir. AlibabaCloud, Wikipedia, Microsoft, Google gibi şirketler tarafından desteklenmektedir. MariaDB kâr amacı gütmediği için bugün olduğu gibi gelecektede ücretsiz olacaktır.
+İlişkisel veritabanı sistemi olan MySQL kaynak kodundan türemiş C/C++ dilleri ile geliştirilmiş ve kullanımı ücretsiz açık kaynak kodlu olan bir veritabanı yönetim sistemidir. AlibabaCloud, Wikipedia, Microsoft, Google gibi şirketler tarafından desteklenmektedir. MariaDB kâr amacı gütmediği için bugün olduğu gibi gelecektede ücretsiz olacaktır.
 
 
 # MongoDB
+
+MongoDB Inc. tarafından C++ dili ile geliştirilmiş açık kaynak kodlu NoSQL veritabanı uygulamasıdır. Verileri JSON tipinde doküman olarak saklayan bir veritabanı türüdür. İlişkisel veritabanları'nın yetişemediği ağır ve yavaş durumlarda daha çok MongoDB kullanılır.
+
+
+
 # Oracle
+
+
+
+
+
 # PostgreSQL
 # Microsoft SQL Server
 
