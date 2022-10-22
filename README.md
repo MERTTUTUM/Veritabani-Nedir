@@ -84,6 +84,38 @@ Verilerimize ulaşmak için bir dizi komut ve sorgu dili kullanmamız gerek. Bu 
 
 
 
+## Veritabanı Yönetim Sistemleri Çeşitleri
+
+- [MySQL](#mysql)
+- [SQLite](#sqlite)
+- [MariaDB](#mariadb)
+- [MongoDB](#mongodb)
+- [Oracle](#oracle)
+- [PostgreSQL](#postgresql)
+- [Microsoft SQL Server](#microsoft-sql-server)
+
+
+
+# MySQL
+
+
+
+
+# SQLite
+
+
+
+# MariaDB
+
+
+
+# MongoDB
+# Oracle
+# PostgreSQL
+# Microsoft SQL Server
+
+
+
 
 
 
