@@ -104,7 +104,7 @@ Verilerimize ulaşmak için bir dizi komut ve sorgu dili kullanmamız gerek. Bu 
 
 # MySQL
 
-
+ASP, PHP gibi web programlama dilleri ile kullanılabilir. En çok bilinen veritabanı yönetim sistemidir. Altı milyondan fazla sistemde yüklüdür. Windows, unix gibi işletim sistemleri için ücretsizdir. Ticari kullanım için ayrı bir lisans alınması gerek bu lisans ise Oracle tarafından sunulmaktadır. 
 
 
 # SQLite
