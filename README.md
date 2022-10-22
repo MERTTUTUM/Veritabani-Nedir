@@ -128,7 +128,12 @@ ASP, PHP gibi web programlama dilleri ile kullanılabilir. En çok bilinen açı
 
 
 
+# Veritabanına Yönelik Zorluklar 
 
+* Verilerin güvenliğini sağlama
+* Veritabanı'nın altyapı ve bakımı
+* Ölçeklenebilirlik
+* Veri hakimiyeti
 
 
 
