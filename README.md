@@ -1,4 +1,4 @@
-
+M
 
 ## VERİTABANI NEDİR? 
 
@@ -119,12 +119,12 @@ D.Richard Hipp tarafından 2000 yılında C/C++ dilleri ile Amerikan Donanması 
 
 # MongoDB
 
-MongoDB Inc. tarafından C++ dili ile geliştirilmiş açık kaynak kodlu NoSQL veritabanı uygulamasıdır. Verileri JSON tipinde doküman olarak saklayan bir veritabanı türüdür. İlişkisel veritabanları'nın yetişemediği ağır ve yavaş durumlarda daha çok MongoDB kullanılır.
+MongoDB Inc. tarafından C++ dili ile geliştirilmiş açık kaynak kodlu NoSQL veritabanı uygulamasıdır. Verileri JSON tipinde doküman olarak saklayan bir veritabanı türüdür. İlişkisel veritabanları'nın yetişemediği ağır ve yavaş durumlarda daha çok MongoDB kullanılır. Milyarlarca veri içerisinden istedğimiz veriyi çağırarak düzenlemeler,analizler yapabilme imkanı sunar.
 
 
+# Oracle 
 
-# Oracle
-
+Oracle şirketi tarfından C/C++ dilleri ile geliştirilmiş ilişkisel veritabanı yönetim sistemidir. 
 
 
 
