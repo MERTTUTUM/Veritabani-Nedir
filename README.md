@@ -1,4 +1,4 @@
-M
+
 
 ## VERİTABANI NEDİR? 
 
@@ -124,12 +124,14 @@ MongoDB Inc. tarafından C++ dili ile geliştirilmiş açık kaynak kodlu NoSQL 
 
 # Oracle 
 
-Oracle şirketi tarfından C/C++ dilleri ile geliştirilmiş ilişkisel veritabanı yönetim sistemidir. 
-
-
+Oracle şirketi tarfından C/C++ dilleri ile geliştirilmiş ilişkisel veritabanı yönetim sistemidir. Kurumsal alanda kullanılan yaygın bir veritabanıdır. Büyük boyuttaki verileri barındırıp aynı anda birçok kişinin erişebilmesini sağlıyor. Tüm işletim sistemleri ile uyumlu ayrıca haftalarca kapatılmadan 24 saat boyunca çalışabilmekte.
 
 
 # PostgreSQL
+
+Açık kaynak kodlu hem ilişkisel hem de ilişkisel olmayan (JSON) sorgulamayı destekler.
+
+
 # Microsoft SQL Server
 
 
