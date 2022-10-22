@@ -59,7 +59,16 @@ Adından da anlaşılacağı gibi erişime açık ve açık kaynak kodlu üzerin
 Bu veritabanı türünde verilerin depolanması ve sorgulanması grafik teorisi üzerinden yapılır. İki öğe den oluşur ; "Node" varlıkları temsil eder.(müşteri,çalışan) ve "Edge" ilişkiyi temsil eder. Genel olarak sosyal ağ oluşturmada, ürün önerileri, ağ analizi gibi alanlarda kullanabiliriz.
 
 
-## VERİTABANI BİLEŞENLERİ NELERDİR?
+## Veritabanı Bileşenleri Nelerdir?
+
+- [Veri](#veri)
+- [Yazılım](#yazılım)
+- [Donanım](#donanım)
+- [Veritabanı Sorgulama Dili](#veritabanı-sorgulama-dili)
+
+
+# Yazılım
+
 
 
 
