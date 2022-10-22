@@ -71,9 +71,19 @@ Bu veritabanı türünde verilerin depolanması ve sorgulanması grafik teorisi 
 
 # Yazılım
 
+Bir veritabanını organize etmek veya yönetebilmek için gerekli programlar bu kategoridedir. Örneğin bir şirketin kıymetli metinlerini düzenlemek için Word gibi programa ihtiyaç duyuyorsak veritabanını muntazam hale getirmek için de çeşitli yazılımlara ihtiyaç duyarız.
+
 # Donanım
 
+Veritabanın'da kullanılan her türlü cihaz bu kategoridedir. (Bilgisayar, elektronik cihazlar vb.) Verilerimizi fiziki olarak bu donanımlar üzerinde saklarız.
+
+
 # Veritabanı Sorgulama Dili
+
+Verilerimize ulaşmak için bir dizi komut ve sorgu dili kullanmamız gerek. Bu sorgular sayesinde veritabanımız'dan anlamlı ve ilişkili veriler çekebiliriz.
+
+
+
 
 
 
