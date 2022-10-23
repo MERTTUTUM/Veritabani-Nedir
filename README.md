@@ -30,7 +30,7 @@ Veritabanları en güncel verileri tutar. (işletmenin günlük verileri) veri a
 
 # Dağıtık Veritabanı
 
-Bu veritabanı bilgileri farklı veri tabanlarında tutar. Her bir veritabanı da bilgisayar ağlarıyla birbirine bağlıdır. Dağıtık sistemlerin ortaya çıkış sebebi kaynakları paylaşma ihtiyacı. Aynı anda birden fazla veritabanı üzerinde işlem yapmayı sağlıyor. Farklı bilgisayarlardaki donanım araçlarını kullanarak verilerimizi daha performanslı tutmayı sağlar. Avantajları ise Esneklik, Şeffaflık, Parçalama, Erişilebilirlik gibi özellikleri barındırır.
+Bu veritabanı bilgileri farklı veritabanlar'ında tutar. Her bir veritabanı da bilgisayar ağlarıyla birbirine bağlıdır. Dağıtık sistemlerin ortaya çıkış sebebi kaynakları paylaşma ihtiyacı. Aynı anda birden fazla veritabanı üzerinde işlem yapmayı sağlıyor. Farklı bilgisayarlardaki donanım araçlarını kullanarak verilerimizi daha performanslı tutmayı sağlar. Avantajları ise Esneklik, Şeffaflık, Parçalama, Erişilebilirlik gibi özellikleri barındırır.
 
 # ilişkisel Veritabanı
 
